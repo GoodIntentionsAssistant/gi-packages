@@ -1,0 +1,19 @@
+{
+  "packages": {
+    "skills": {
+      "calculator": {
+        "name": "Calculator",
+        "description": "Basic calculator",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-calculator.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      }
+    }
+  }
+}
