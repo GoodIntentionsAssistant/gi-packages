@@ -26,6 +26,136 @@
           "url": "http://goodintentions.firecreekweb.com/"
         },
         "dependencies": {}
+      },
+      "Currency": {
+        "name": "Currency",
+        "description": "Currency conversions and rates",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-currency.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Debug": {
+        "name": "Debugger",
+        "description": "Debugging, logging and catching errors",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-debug.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Dice": {
+        "name": "Dice roll",
+        "description": "Dice roll",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-dice.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Examples": {
+        "name": "Example intents",
+        "description": "Collection of example intents",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-examples.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Fallback": {
+        "name": "Fall back",
+        "description": "Common fall back intents such as who, why, what?",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-fallback.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Flipcoin": {
+        "name": "Flip coin",
+        "description": "Flip a coin or many coins",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-flipcoin.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Rockpaperscissors": {
+        "name": "Rock Paper Scissors",
+        "description": "Rock paper scissors game",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-rockpaperscissors.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Time": {
+        "name": "Time",
+        "description": "Time and timezones",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-time.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Unit": {
+        "name": "Unit",
+        "description": "Units and unit conversions",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-unit.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
+      },
+      "Weather": {
+        "name": "Weather",
+        "description": "Weather for cities",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-weather.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
       }
     }
   }
