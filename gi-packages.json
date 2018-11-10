@@ -13,6 +13,19 @@
           "url": "http://goodintentions.firecreekweb.com/"
         },
         "dependencies": {}
+      },
+      "Catfacts": {
+        "name": "Cat Facts",
+        "description": "Fun little cat facts",
+        "repository": {
+          "url": "https://github.com/GoodIntentionsAssistant/gi-skill-catfacts.git"
+        },
+        "author": {
+          "name": "Darren Moore",
+          "email": "darren.m@firecreekweb.com",
+          "url": "http://goodintentions.firecreekweb.com/"
+        },
+        "dependencies": {}
       }
     }
   }
