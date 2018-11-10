@@ -1,7 +1,7 @@
 {
   "packages": {
     "skills": {
-      "calculator": {
+      "Calculator": {
         "name": "Calculator",
         "description": "Basic calculator",
         "repository": {
