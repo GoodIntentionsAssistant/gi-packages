@@ -1,176 +1,174 @@
 {
   "packages": {
-    "skills": {
-      "Calculator": {
-        "name": "Calculator",
-        "description": "Basic calculator",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+    "Calculator": {
+      "name": "Calculator",
+      "description": "Basic calculator",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Catfacts": {
-        "name": "Cat Facts",
-        "description": "Fun little cat facts",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Catfacts": {
+      "name": "Cat Facts",
+      "description": "Fun little cat facts",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Currency": {
-        "name": "Currency",
-        "description": "Currency conversions and rates",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Currency": {
+      "name": "Currency",
+      "description": "Currency conversions and rates",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Debug": {
-        "name": "Debugger",
-        "description": "Debugging, logging and catching errors",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Debug": {
+      "name": "Debugger",
+      "description": "Debugging, logging and catching errors",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Dice": {
-        "name": "Dice roll",
-        "description": "Dice roll",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Dice": {
+      "name": "Dice roll",
+      "description": "Dice roll",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Examples": {
-        "name": "Example intents",
-        "description": "Collection of example intents",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Examples": {
+      "name": "Example intents",
+      "description": "Collection of example intents",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Fallback": {
-        "name": "Fall back",
-        "description": "Common fall back intents such as who, why, what?",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Fallback": {
+      "name": "Fall back",
+      "description": "Common fall back intents such as who, why, what?",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "gi-skill-flipcoin": {
-        "name": "Flip coin",
-        "description": "Flip a coin or many coins",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "gi-skill-flipcoin": {
+      "name": "Flip coin",
+      "description": "Flip a coin or many coins",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Rockpaperscissors": {
-        "name": "Rock Paper Scissors",
-        "description": "Rock paper scissors game",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Rockpaperscissors": {
+      "name": "Rock Paper Scissors",
+      "description": "Rock paper scissors game",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Time": {
-        "name": "Time",
-        "description": "Time and timezones",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Time": {
+      "name": "Time",
+      "description": "Time and timezones",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Unit": {
-        "name": "Unit",
-        "description": "Units and unit conversions",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Unit": {
+      "name": "Unit",
+      "description": "Units and unit conversions",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Weather": {
-        "name": "Weather",
-        "description": "Weather for cities",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Weather": {
+      "name": "Weather",
+      "description": "Weather for cities",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Guessnumber": {
-        "name": "Guess Number",
-        "description": "Guess number game",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Guessnumber": {
+      "name": "Guess Number",
+      "description": "Guess number game",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Helloworld": {
-        "name": "Hello world example",
-        "description": "Hello world example",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Helloworld": {
+      "name": "Hello world example",
+      "description": "Hello world example",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Reminder": {
-        "name": "Reminder",
-        "description": "Create reminders",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Reminder": {
+      "name": "Reminder",
+      "description": "Create reminders",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Smalltalk": {
-        "name": "Small talk",
-        "description": "Small talk",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
+      "dependencies": {}
+    },
+    "Smalltalk": {
+      "name": "Small talk",
+      "description": "Small talk",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
       },
-      "Welcome": {
-        "name": "Welcome",
-        "description": "Welcome users when they connect for the first time",
-        "author": {
-          "name": "Darren Moore",
-          "email": "darren.m@firecreekweb.com",
-          "url": "http://goodintentions.firecreekweb.com/"
-        },
-        "dependencies": {}
-      }
+      "dependencies": {}
+    },
+    "Welcome": {
+      "name": "Welcome",
+      "description": "Welcome users when they connect for the first time",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
+      },
+      "dependencies": {}
     }
   }
 }
