@@ -7,8 +7,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Catfacts": {
       "name": "Cat Facts",
@@ -17,8 +16,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Currency": {
       "name": "Currency",
@@ -27,8 +25,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Debug": {
       "name": "Debugger",
@@ -37,8 +34,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Dice": {
       "name": "Dice roll",
@@ -47,8 +43,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Examples": {
       "name": "Example intents",
@@ -57,8 +52,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Fallback": {
       "name": "Fall back",
@@ -67,8 +61,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "gi-skill-flipcoin": {
       "name": "Flip coin",
@@ -77,8 +70,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Rockpaperscissors": {
       "name": "Rock Paper Scissors",
@@ -87,8 +79,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Time": {
       "name": "Time",
@@ -97,8 +88,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Unit": {
       "name": "Unit",
@@ -107,8 +97,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Weather": {
       "name": "Weather",
@@ -117,18 +106,16 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
-    "Guessnumber": {
+    "gi-skill-guessnumber": {
       "name": "Guess Number",
       "description": "Guess number game",
       "author": {
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Helloworld": {
       "name": "Hello world example",
@@ -137,8 +124,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Reminder": {
       "name": "Reminder",
@@ -147,8 +133,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Smalltalk": {
       "name": "Small talk",
@@ -157,8 +142,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     },
     "Welcome": {
       "name": "Welcome",
@@ -167,8 +151,7 @@
         "name": "Darren Moore",
         "email": "darren.m@firecreekweb.com",
         "url": "http://goodintentions.firecreekweb.com/"
-      },
-      "dependencies": {}
+      }
     }
   }
 }
