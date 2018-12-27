@@ -1,6 +1,6 @@
 {
   "packages": {
-    "Calculator": {
+    "gi-skill-calculator": {
       "name": "Calculator",
       "description": "Basic calculator",
       "author": {
@@ -9,7 +9,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Catfacts": {
+    "gi-skill-catfacts": {
       "name": "Cat Facts",
       "description": "Fun little cat facts",
       "author": {
@@ -18,7 +18,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Currency": {
+    "gi-skill-currency": {
       "name": "Currency",
       "description": "Currency conversions and rates",
       "author": {
@@ -27,7 +27,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Debug": {
+    "gi-skill-debug": {
       "name": "Debugger",
       "description": "Debugging, logging and catching errors",
       "author": {
@@ -36,7 +36,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Dice": {
+    "gi-skill-dice": {
       "name": "Dice roll",
       "description": "Dice roll",
       "author": {
@@ -45,7 +45,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Examples": {
+    "gi-skill-examples": {
       "name": "Example intents",
       "description": "Collection of example intents",
       "author": {
@@ -54,7 +54,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Fallback": {
+    "gi-skill-fallback": {
       "name": "Fall back",
       "description": "Common fall back intents such as who, why, what?",
       "author": {
@@ -72,7 +72,16 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Rockpaperscissors": {
+    "gi-skill-randomnumber": {
+      "name": "Random number",
+      "description": "Generates random numbers",
+      "author": {
+        "name": "Darren Moore",
+        "email": "darren.m@firecreekweb.com",
+        "url": "http://goodintentions.firecreekweb.com/"
+      }
+    },
+    "gi-skill-rockpaperscissors": {
       "name": "Rock Paper Scissors",
       "description": "Rock paper scissors game",
       "author": {
@@ -81,7 +90,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Time": {
+    "gi-skill-time": {
       "name": "Time",
       "description": "Time and timezones",
       "author": {
@@ -90,7 +99,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Unit": {
+    "gi-skill-unit": {
       "name": "Unit",
       "description": "Units and unit conversions",
       "author": {
@@ -99,7 +108,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Weather": {
+    "gi-skill-weather": {
       "name": "Weather",
       "description": "Weather for cities",
       "author": {
@@ -117,7 +126,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Helloworld": {
+    "gi-skill-helloworld": {
       "name": "Hello world example",
       "description": "Hello world example",
       "author": {
@@ -126,7 +135,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Reminder": {
+    "gi-skill-reminder": {
       "name": "Reminder",
       "description": "Create reminders",
       "author": {
@@ -135,7 +144,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Smalltalk": {
+    "gi-skill-smalltalk": {
       "name": "Small talk",
       "description": "Small talk",
       "author": {
@@ -144,7 +153,7 @@
         "url": "http://goodintentions.firecreekweb.com/"
       }
     },
-    "Welcome": {
+    "gi-skill-welcome": {
       "name": "Welcome",
       "description": "Welcome users when they connect for the first time",
       "author": {
